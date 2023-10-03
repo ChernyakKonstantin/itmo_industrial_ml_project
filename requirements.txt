@@ -1,3 +1,7 @@
 geopy
 pandas
 matplotlib
+seaborn
+tqdm
+scikit-learn
+statsmodels
